@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <Head>
+        <style>
+            h1{
+                color: blue;
+            }
+        </style>
+    </Head>
+    <body>
+        <h1>this is header one</h1>
+        <h1>this is html lesson</h1>
+        <p>this is my html pictures</p>
+        <img src="images/kigali city.jpg" alt="a plce holder image" width="450" length="300">
+        <a href="www.instagram.com" target="-blank"><img src="c:\Users\User\OneDrive - Rwanda Education Board\Pictures\Camera Roll\104881755_603091507293290_4136233162800495002_n.jpg" alt="a plce holder image" width="300" length="450"></a>
+        <h3>this are some mathematical abbreviation</h3>
+        <h1 style="background-color:DodgerBlue;">Hello World</h1>
+        <ol>
+            <li><p>this is the math equation of oxygen<mark>=H<sub>2</sub>o<sup>9</sup></mark></p></li>
+            <li><p>ax<sup><strong><i><u>2</u></i></strong></sup>+bx</p></li>
+        </ol>
+        <ul>
+            <li>i like my code styles </li>
+            <li>i like coding</li>
+        </ul>
+        <p style="background-color:Tomato;">the following a tables
+        </p>
+        <table border="1">
+            <tr>
+                <th>this my age</th>
+                <th>this is my school</th>
+                <th>this when i started class</th>
+                <th>this is my studies </th>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>kigali christian school</td>
+                <td>2010</td>
+                <td>coding</td>
+            </tr>
+            <blockquote cite="http://www.worldwildlife.org/who/index.html">
+                For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.
+            </blockquote>
+            <p><video width="320" height="240" controls></video><source src="musics/kjl.zpl" type="musics/kjl.zpl"></p>
+
+        </table>
+    </body>
+</html>
